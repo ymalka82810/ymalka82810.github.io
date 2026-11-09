@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ymalka.account",
+    "sha256_cert_fingerprints": ["C8:26:F5:8F:85:F0:82:90:29:06:AE:35:1C:F5:5A:C9:64:3D:B5:31:AF:23:DB:4C:B9:94:E1:4C:90:BF:A4:FE"]
+  }
+}]
